@@ -9,6 +9,7 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@quranjs/api": "^3.8.0",
     "@supabase/ssr": "^0.12.6",
     "@supabase/supabase-js": "^2.115.0",
     "adhan": "^4.4.6",
@@ -17,6 +18,8 @@
     "next": "16.3.4",
     "react": "19.2.8",
     "react-dom": "19.2.8",
+    "redis": "^6.2.1",
+    "swr": "^2.5.1",
     "workbox-window": "^7.4.1",
     "zustand": "^5.0.15"
   },
